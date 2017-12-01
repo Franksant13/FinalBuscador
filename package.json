@@ -1,0 +1,17 @@
+{
+  "name": "buscadornode",
+  "version": "1.0.0",
+  "description": "Final Curso Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "socket.io": "^1.5.0",
+    "socket.io-client": "^1.5.0",
+    "express": "^4.14.0",
+    "body-parser": "1.18.2"
+  },
+  "author": "Frank",
+  "license": "ISC"
+}
